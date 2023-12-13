@@ -1,0 +1,1 @@
+print("Németh Zsolt, I-2-N, 2023-12-13")
